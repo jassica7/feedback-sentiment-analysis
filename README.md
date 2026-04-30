@@ -39,7 +39,6 @@ Unlike traditional ML approaches (TF-IDF + Logistic Regression), this project us
 feedback-sentiment-analysis/
 │
 ├── Sentiment_Analysis.ipynb     # Main notebook with full implementation
-├── sentiment_analysis.py        # Python script version
 ├── sentiment-analysis1.png      # Output screenshot 1
 ├── sentiment-analysis2.png      # Output screenshot 2
 ├── sentiment-analysis3.png      # Output screenshot 3
